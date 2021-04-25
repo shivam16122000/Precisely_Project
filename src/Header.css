@@ -1,0 +1,44 @@
+.preciseLogo {
+    width: 60px;
+    height: 60px;
+}
+.left {
+    display: flex;
+}
+.precisetext {
+    margin-top: 5px;
+    margin-left: -8px;
+}
+.precisetext > .one {
+    margin-bottom: -20px;
+    font-size: 15px;
+    font-weight: 800;
+}
+.precisetext > .two {
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.header {
+    display: flex;
+}
+.right {
+    margin-left: 100px;
+    display: flex;
+    background-color: aqua;
+    width: 80vw;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(175, 150, 214, 0.2);
+}
+.right > input[type='text'] {
+    width: 60%;
+    height: 27px;
+    margin-left: -300px;
+    background-color: rgba(175, 150, 214, 0.2);
+    border-radius: 10px;
+    border: 0px solid rgba(175, 150, 214, 0.2);
+}
+.searchicon {
+    background-color: aqua;
+}

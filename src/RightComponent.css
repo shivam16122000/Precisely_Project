@@ -1,0 +1,14 @@
+.recommended {
+    background-color: rgba(175, 150, 214, 0.4);
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    height: 3%;
+    color: gray;
+    font-weight: 700;
+    border-radius: 18px;
+    margin-left: 12px;
+    font-size: 1.3vw;
+}

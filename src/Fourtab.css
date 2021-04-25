@@ -1,0 +1,130 @@
+.relatedterm {
+    display: flex;
+    justify-content: space-around;
+}
+.relatedterm > p {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.relation {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: green;
+    margin-bottom: 15px;
+}
+.relation > .addrelation {
+    margin-left: 100px;
+    margin-top: 7px;
+    color: green;
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    margin-bottom: 20px;
+}
+.info-icon {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 10px;
+}
+.lowerbody {
+    width: 99%;
+}
+.bookmark {
+    margin-left: 20px;
+}
+.title {
+    font-size: 1.5vw;
+    width: 60%;
+    font-weight: 700;
+}
+
+.description {
+    width: 60%;
+}
+.descriptionright {
+    display: flex;
+    flex-direction: column;
+    width: 28%;
+}
+.rating {
+    display: flex;
+    justify-content: space-between;
+}
+.ratingbottom {
+    display: flex;
+    justify-content: space-between;
+}
+.ratingbottom > .views {
+    display: flex;
+    align-items: center;
+}
+.ratingbottom > .published {
+    display: flex;
+    align-items: center;
+}
+.lowerbody > .moreinfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.stars {
+    color: yellow;
+    font-size: 1.5vw;
+}
+
+.switchtab {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    margin-left: 15px;
+}
+.childtab {
+    width: 10%;
+    height: 3.5vw;
+    background-color: rgba(175, 150, 214, 0.2);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    float: right;
+    border-radius: 14px;
+    transition: width 0.4s;
+
+    position: static;
+    overflow: hidden;
+    padding-left: 16px;
+}
+.animatediv {
+    width: 30%;
+    height: 3.5vw;
+    background-color: #6840cf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 14px;
+    padding-left: 7px;
+    padding-right: 7px;
+    white-space: nowrap;
+    box-shadow: 3px 5px 10px 2px #c196f2;
+    color: white;
+}
+.childtab > div {
+    font-size: 1.25vw;
+    font-weight: 600;
+    color: white;
+
+    margin-left: 5px;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+p {
+    font-size: 1.3vw;
+}
+.responsive-icon {
+}
