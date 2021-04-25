@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Precisely_Project/static/css/main.612785dc.chunk.css",
-    "main.js": "/Precisely_Project/static/js/main.6751e881.chunk.js",
-    "main.js.map": "/Precisely_Project/static/js/main.6751e881.chunk.js.map",
+    "main.js": "/Precisely_Project/static/js/main.90839b0b.chunk.js",
+    "main.js.map": "/Precisely_Project/static/js/main.90839b0b.chunk.js.map",
     "runtime-main.js": "/Precisely_Project/static/js/runtime-main.72e8fa14.js",
     "runtime-main.js.map": "/Precisely_Project/static/js/runtime-main.72e8fa14.js.map",
     "static/js/2.326d5309.chunk.js": "/Precisely_Project/static/js/2.326d5309.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.72e8fa14.js",
     "static/js/2.326d5309.chunk.js",
     "static/css/main.612785dc.chunk.css",
-    "static/js/main.6751e881.chunk.js"
+    "static/js/main.90839b0b.chunk.js"
   ]
 }
